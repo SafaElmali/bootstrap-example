@@ -1,4 +1,4 @@
-<h1>CertificationTemplate</h1>
+<h1>Certification Template</h1>
 
 <p>I've just implemented a jpg certificate file into html using Bootstrap 3.3.7 as a weekend project :)</p>
 <p>Project aim was to improve my knowledge about Bootstrap.</p>
