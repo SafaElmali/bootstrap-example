@@ -2,6 +2,7 @@
 
 <p>I've just implemented a jpg certificate file into html using Bootstrap 3.3.7 as a weekend project :)</p>
 <p>Project aim was to improve my knowledge about Bootstrap.</p>
+<span>👉<a href="https://certification-template.now.sh/" target="_blank">Preview</a></span>
 
 
 <h2>Comparison</h2>
