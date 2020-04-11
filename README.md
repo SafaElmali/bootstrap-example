@@ -9,8 +9,7 @@
 - Boootstrap 3.3.7
 - HTML
 - CSS
-- Javascript
-
+- JavaScript
 
 ## Comparison
 
