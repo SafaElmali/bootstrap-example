@@ -4,8 +4,15 @@
 <p>Project aim was to improve my knowledge about Bootstrap.</p>
 <span>👉<a href="https://certification-template.now.sh/" target="_blank">Preview</a></span>
 
+## Built With
 
-<h2>Comparison</h2>
+- Boootstrap 3.3.7
+- HTML
+- CSS
+- Javascript
+
+
+## Comparison
 
 | Original Certificate  | Bootstrap Certificate |
 | ------------- | ------------- |
