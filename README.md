@@ -19,6 +19,6 @@
 | ------------- | ------------- |
 | <img align="right" width=700 height=650 src="https://github.com/SafaElmali/CertificationTemplate/blob/master/img/original_certificate.jpg">  | <img align="left" width=700 height=650 src="https://github.com/SafaElmali/CertificationTemplate/blob/master/img/bootstrap_img.png">  |
 
-### License
+## License
 
 Certification-Template is [MIT licensed](./LICENSE).
