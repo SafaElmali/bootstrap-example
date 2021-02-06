@@ -21,4 +21,4 @@
 
 ## License
 
-Certification-Template is [MIT licensed](./LICENSE).
+bootstrap-example is [MIT licensed](./LICENSE).
